@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",  // Set the JavaScript version to ES6 or later
+    "module": "commonjs",
+    "strict": true,   // Enable all strict type-checking options
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
