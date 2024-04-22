@@ -1,5 +1,5 @@
 # Javasrcipt Algorithms and Data Structures
-[![ESLint Check](https://github.com/Yggdrasill501/javascript_algorithms/actions/workflows/eslint.yml/badge.svg)](https://github.com/Yggdrasill501/javascript_algorithms/actions/workflows/eslint.yml)
+[![ESLint Check](https://github.com/Yggdrasill501/javascript_algorithms/actions/workflows/eslint.yml/badge.svg)](https://github.com/Yggdrasill501/javascript_algorithms/actions/workflows/eslint.yml)<p>
 This is workshop repository for JavaScript Algorithms and Data Structures.
 
 ## Description
